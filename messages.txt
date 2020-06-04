@@ -1,0 +1,10 @@
+hello these are random messages and commands ==>1
+it can be a normal text ==>3
+wget ==>10
+netstat ==>4
+ping ==>3
+it can also be command ==>2
+it can be random text from client like this ==>0
+it can also be a message sent as command by user to be executed ==>2
+it will either return ack or noack  ==>3
+exit ==>-1
