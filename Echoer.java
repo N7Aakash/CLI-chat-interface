@@ -21,7 +21,7 @@ public class Echoer extends Thread{
                 boolean command = false;
 				String echoString = input.readLine();
                 int textPriority = Integer.parseInt(input.readLine());
-                System.out.println("Server got this: " + echoString + " with priority as " + textPriority);
+                // System.out.println("Server got this: " + echoString + " with priority as " + textPriority);
                 String h2TextGroupRegex = "(<command>)(.*?)(</command>)";
                 Pattern h2TextGroupPattern = Pattern.compile(h2TextGroupRegex);
                 Matcher h2TextGroupMatcher = h2TextGroupPattern.matcher(echoString);
@@ -38,16 +38,28 @@ public class Echoer extends Thread{
 				// 	Thread.sleep(1000);
 				// }catch(Exception e){}
 				// output.println(sc.nextLine());
+
+                //ADDING DATA INTO PRIORITY QUEUE
+                pq.add(new Message(socket,echoString,textPriority));
+                
+
 			}
+            
 		}catch(IOException e){
 			System.out.println("issue: " + e);
 		}catch(Exception e){
 			System.out.println("issue: "+ e);
 		}finally{
-			try{
-				socket.close();
-			}catch(IOException e){
-			}
+			// try{
+			// 	socket.close();
+			// }catch(IOException e){
+			// }
+            //THESE 3 LINES BELOW SHOW THAT THE PRIORITY QUEUE SET IS WORKING PROPERLY.
+
+            while (!pq.isEmpty()) { 
+                System.out.println(pq.poll().priority);
+                }
+            System.out.println("I am here");
 		}
 	}
 }

@@ -21,7 +21,7 @@ public class ServerCode{
 				/*echoer e = new echoer(s);
 				e.start();
 				*/
-				new Echoer(s).start();
+				new Echoer(s,pq).start();
 				// new EchoerOutput(s).start();
 			}
 		}catch(IOException e){
