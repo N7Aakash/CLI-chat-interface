@@ -22,7 +22,7 @@ public class ServerCode{
 		new EchoReadServer(logger).start();
         int uniqueId;
 		try(ServerSocket serverSocket = new ServerSocket(8765)){
-			for(int i=0;i<19;i++){
+			for(int i=0;i<5;i++){
 				Runtime.getRuntime().exec("cmd /c start cmd.exe /K \"javac ClientCode.java && java ClientCode\" ");
 			}            
 			while(true){
