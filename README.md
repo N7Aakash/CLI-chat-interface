@@ -12,6 +12,7 @@ To RUN THE PROJECT in linux:
 
 
 
+
 This chat interface is being implemented using Java socket programming. This is one server serving to any number of clients connecting to the server. The features included in the system are as follows:
 
 1. One worker hearing for new connections from the clients incoming. Any number of clients can be connected.
