@@ -10,7 +10,7 @@ To RUN THE PROJECT in linux:
 5. A delay of 1000ms is imposed on response thread each time so as to show the priority queue working.
 
 
-
+![](images/Diagram.png)
 
 
 This chat interface is being implemented using Java socket programming. This is one server serving to any number of clients connecting to the server. The features included in the system are as follows:
