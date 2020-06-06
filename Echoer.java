@@ -60,7 +60,7 @@ public class Echoer extends Thread{
 				try{
 					Thread.sleep(1000);
 				}catch(Exception e){}
-				output.println(sc.nextLine());
+				// output.println(sc.nextLine());
 
                 // ADDING DATA INTO PRIORITY QUEUE
                 logger.info("REQUEST  "+ echoString + " ADDED TO PRIORITYQUEUE " + " BY CLIENT ID : " + uniqueId);                        
@@ -87,7 +87,7 @@ public class Echoer extends Thread{
             while (!ServerCode.pq.isEmpty()) { 
                 System.out.println(ServerCode.pq.poll().priority);
                 }
-			System.out.println("I am here");
+			System.out.println("FOR FURTHER LOGS PLEASE CHECK LOGFILES");
 			//System.out.println(ServerCode.finalCount);
 			//ServerCode.finalCount--;
 		}

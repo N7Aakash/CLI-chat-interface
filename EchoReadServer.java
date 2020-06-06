@@ -19,6 +19,7 @@ public class EchoReadServer extends Thread
         {
             while(true)
             {
+                // System.out.println("hii");
                 Message m = ServerCode.pq.take();
                 Socket s = ServerCode.hm.get(m.uniqueId);
                 output = new PrintWriter(s.getOutputStream(), true);

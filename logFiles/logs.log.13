@@ -2,14 +2,14 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2020-06-06T13:40:34</date>
-  <millis>1591431034975</millis>
+  <date>2020-06-06T13:40:35</date>
+  <millis>1591431035229</millis>
   <sequence>0</sequence>
   <logger>global</logger>
   <level>INFO</level>
   <class>ClientCode</class>
   <method>main</method>
   <thread>1</thread>
-  <message>INSTRUCTION ipconfig PRIORITY 3 REQUESTED BY CLIENT ID : 800</message>
+  <message>MESSAGE hii server PRIORITY 1 REQUESTED BY CLIENT ID : 699</message>
 </record>
 </log>

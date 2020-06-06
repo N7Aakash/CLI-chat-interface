@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039865</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>REQUEST  ipconfig ADDED TO PRIORITYQUEUE  BY CLIENT ID : 727</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039896</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>REQUEST  cls ADDED TO PRIORITYQUEUE  BY CLIENT ID : 685</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039896</millis>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>REQUEST  ipconfig ADDED TO PRIORITYQUEUE  BY CLIENT ID : 436</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039896</millis>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>REQUEST  cls ADDED TO PRIORITYQUEUE  BY CLIENT ID : 246</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039896</millis>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>REQUEST  it can be random text from client like this ADDED TO PRIORITYQUEUE  BY CLIENT ID : 136</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039896</millis>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>REQUEST  it can be random text from client like this ADDED TO PRIORITYQUEUE  BY CLIENT ID : 976</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039911</millis>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 727: ACK ON REQUEST : ipconfig</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039927</millis>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>REQUEST  cls ADDED TO PRIORITYQUEUE  BY CLIENT ID : 116</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039927</millis>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>REQUEST  cls ADDED TO PRIORITYQUEUE  BY CLIENT ID : 791</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039927</millis>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>REQUEST  cls ADDED TO PRIORITYQUEUE  BY CLIENT ID : 62</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039927</millis>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>REQUEST  hii server ADDED TO PRIORITYQUEUE  BY CLIENT ID : 699</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039943</millis>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>REQUEST  ipconfig ADDED TO PRIORITYQUEUE  BY CLIENT ID : 800</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039943</millis>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>REQUEST  it can be random text from client like this ADDED TO PRIORITYQUEUE  BY CLIENT ID : 217</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039943</millis>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>REQUEST  it can be random text from client like this ADDED TO PRIORITYQUEUE  BY CLIENT ID : 999</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039943</millis>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>10</thread>
+  <message>REQUEST  dir ADDED TO PRIORITYQUEUE  BY CLIENT ID : 941</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039955</millis>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 436: ACK ON REQUEST : ipconfig</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039955</millis>
+  <sequence>16</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>INCORRECT COMMAND REQUESTED BY CLIENT ID 941: NO ACK ON REQUEST MESSAGE : dir</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039970</millis>
+  <sequence>18</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>REQUEST  it can be random text from client like this ADDED TO PRIORITYQUEUE  BY CLIENT ID : 361</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039970</millis>
+  <sequence>19</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>REQUEST  hii server ADDED TO PRIORITYQUEUE  BY CLIENT ID : 867</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039970</millis>
+  <sequence>20</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>REQUEST  it can be random text from client like this ADDED TO PRIORITYQUEUE  BY CLIENT ID : 372</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039970</millis>
+  <sequence>17</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>REQUEST  ipconfig ADDED TO PRIORITYQUEUE  BY CLIENT ID : 828</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:39</date>
+  <millis>1591431039970</millis>
+  <sequence>21</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Echoer</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>REQUEST  echo hello world ADDED TO PRIORITYQUEUE  BY CLIENT ID : 379</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040010</millis>
+  <sequence>22</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 800: ACK ON REQUEST : ipconfig</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040010</millis>
+  <sequence>23</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 379: ACK ON REQUEST : echo hello world</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040041</millis>
+  <sequence>24</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 828: ACK ON REQUEST : ipconfig</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040041</millis>
+  <sequence>25</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>INCORRECT COMMAND REQUESTED BY CLIENT ID 791: NO ACK ON REQUEST MESSAGE : cls</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040041</millis>
+  <sequence>26</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>INCORRECT COMMAND REQUESTED BY CLIENT ID 685: NO ACK ON REQUEST MESSAGE : cls</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>27</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>INCORRECT COMMAND REQUESTED BY CLIENT ID 116: NO ACK ON REQUEST MESSAGE : cls</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>28</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>INCORRECT COMMAND REQUESTED BY CLIENT ID 246: NO ACK ON REQUEST MESSAGE : cls</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>29</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>INCORRECT COMMAND REQUESTED BY CLIENT ID 62: NO ACK ON REQUEST MESSAGE : cls</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>30</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 867: ACK ON REQUEST : hii server</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>31</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 699: ACK ON REQUEST : hii server</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>32</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 361: ACK ON REQUEST : it can be random text from client like this</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>33</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 976: ACK ON REQUEST : it can be random text from client like this</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>34</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 372: ACK ON REQUEST : it can be random text from client like this</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>35</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 999: ACK ON REQUEST : it can be random text from client like this</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>36</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 136: ACK ON REQUEST : it can be random text from client like this</message>
+</record>
+<record>
+  <date>2020-06-06T13:40:40</date>
+  <millis>1591431040055</millis>
+  <sequence>37</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>EchoReadServer</class>
+  <method>run</method>
+  <thread>9</thread>
+  <message>RESPONSE FOR CLIENT ID 217: ACK ON REQUEST : it can be random text from client like this</message>
+</record>
+</log>
